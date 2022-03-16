@@ -1,0 +1,1 @@
+*/30 * * * * sh /home/pi/RasPi/auto.sh >> /tmp/cronlogs.txt
